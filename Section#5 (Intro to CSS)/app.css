@@ -1,0 +1,22 @@
+h1{
+	color: #FF9000;
+	/*border-color: yellow;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 8px dashed rgb(255,100,80);
+}
+li{
+	color: rgb(0,255,0);
+}
+h4{
+	color: rgba(0,255,0, .3);
+	background: rgb(255,100,80);
+}
+body{
+	background: pink;
+}
+body{
+	background: url(http://wx3.sinaimg.cn/mw690/006L71xEgy1g3ektubrtrj31hc0u0e34.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
